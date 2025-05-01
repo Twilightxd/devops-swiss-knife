@@ -1,37 +1,38 @@
-### Always run 'git status' like your life depends on it
+# Git Basic Commands
 
 
+1. Start a new Git repository in your current folder <br>
+git init
 
-git init 
-    Start a new Git repository in your current folder
-
+2. Make a local copy of a remote repository <br>
 git clone <repository-url>
-    Make a local copy of a remote repository
 
+3. See which files are staged, unstaged or untracked <br>
 git status
-    See which files are staged, unstaged or untracked
 
+4. Select the changes you want to commit <br>
 git add <filename>
-# or add everything
-git add .
-    Select the changes you want to commit
+git add . (or add everything)
 
+5. Save a snapshot of the changes you staged <br>
 git commit -m "your commit message here"
-    Save a snapshot of the changes you staged
 
+6. See all the past commits <br>
 git log
-    See all the past commits
 
+7. Make a new branch off your current commit <br>
 git branch <branch-name>
-    Make a new branch off your current commit
 
+8. Move to another branch <br>
 git checkout <branch-name>
-# or new way (Git 2.23+):
-git switch <branch-name>
-    Move to another branch
+git switch <branch-name> (or new way (Git 2.23+))
 
+9. Send your commits to the remote repository <br>
 git push origin <branch-name>
-    Send your commits to the remote repository
 
+10. Update your local branch with latest commits from remote <br>
 git pull
-    Update your local branch with latest commits from remote
+
+
+## Pro tips
+Always run 'git status' like your life depends on it
