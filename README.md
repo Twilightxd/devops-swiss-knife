@@ -4,10 +4,10 @@
 
 ### 📁 Sections:
 
-Git: Basic + Advanced git commands every DevOps engineer must know.
-Docker: Container essentials + docker-compose survival guide.
-Kubernetes: kubectl spells + troubleshooting black magic.
-Terraform: Infrastructure as code commands and tfstate secrets.
-Bash: Everyday scripts and automation firepower.
-Linux: Admin commands to save your server (and soul).
+Git: Basic + Advanced git commands every DevOps engineer must know.<br>
+Docker: Container essentials + docker-compose survival guide.<br>
+Kubernetes: kubectl spells + troubleshooting black magic.<br>
+Terraform: Infrastructure as code commands and tfstate secrets.<br>
+Bash: Everyday scripts and automation firepower.<br>
+Linux: Admin commands to save your server (and soul).<br>
 Resources: Best cheatsheets and learning links.
