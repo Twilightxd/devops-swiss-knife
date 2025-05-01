@@ -1,5 +1,5 @@
 # Docker Essential Commands
-
+Simply running the command docker in the terminal allows you to check out all the commands that are used
 
 1. Check Docker Version <br>
 '''bash <br>
